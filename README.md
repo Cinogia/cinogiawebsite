@@ -1,10 +1,3 @@
-# CINOGIA — Site Oficial
-
-Bem-vindo ao repositório oficial do **site da CINOGIA**, uma empresa de tecnologia moderna focada em desenvolver **soluções inteligentes e inovadoras** para outras empresas.  
-Este projeto foi criado com um design **moderno, escuro e vibrante**, priorizando **animações suaves, 3D e experiência visual imersiva**.
-
-
-
 ## Sobre o Projeto
 
 O site da **CINOGIA** foi desenvolvido para representar o espírito tecnológico e criativo da empresa.  
