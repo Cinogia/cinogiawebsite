@@ -1,7 +1,6 @@
 ## Sobre o Projeto
 
-O site da **CINOGIA** foi desenvolvido para representar o espírito tecnológico e criativo da empresa.  
-Ele combina um visual **profissional**, com tons de **preto e laranja neon**, animações em **3D**, **scroll interativo**, e um **carrossel em tela cheia** inspirado no design da Netflix.
+O site da **CINOGIA** foi desenvolvido para representar o espírito tecnológico e criativo da empresa.
 
 O projeto é **100% responsivo** e totalmente otimizado para desktops, tablets e smartphones.
 
