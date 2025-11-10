@@ -33,13 +33,3 @@ O projeto foi construído utilizando as linguagens e bibliotecas mais modernas d
 
 
 
-## Estrutura do Projeto
-CINOGIA/
-│
-├── index.html # Página principal
-├── style.css # Estilos e animações (400+ linhas)
-├── script.js # Funções JS, carrossel e animações
-├── /img/ # Imagens do site (logo, banner, projetos, etc)
-└── README.md # Este arquivo
-
-
