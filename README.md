@@ -1,2 +1,53 @@
-# cinogiawebsite
-Website oficial da CINOGIA, uma empresa de tecnologia especializada em soluções digitais e projetos tecnológicos para outras empresas. Desenvolvido com foco em design moderno, animações 3D, interatividade fluida e responsividade total, o site reflete a essência inovadora e criativa da marca.
+# CINOGIA — Site Oficial
+
+Bem-vindo ao repositório oficial do **site da CINOGIA**, uma empresa de tecnologia moderna focada em desenvolver **soluções inteligentes e inovadoras** para outras empresas.  
+Este projeto foi criado com um design **moderno, escuro e vibrante**, priorizando **animações suaves, 3D e experiência visual imersiva**.
+
+
+
+## Sobre o Projeto
+
+O site da **CINOGIA** foi desenvolvido para representar o espírito tecnológico e criativo da empresa.  
+Ele combina um visual **profissional**, com tons de **preto e laranja neon**, animações em **3D**, **scroll interativo**, e um **carrossel em tela cheia** inspirado no design da Netflix.
+
+O projeto é **100% responsivo** e totalmente otimizado para desktops, tablets e smartphones.
+
+
+
+## Tecnologias Utilizadas
+
+O projeto foi construído utilizando as linguagens e bibliotecas mais modernas do mercado:
+
+- **HTML5** — Estrutura semântica e otimizada  
+- **CSS3 / SCSS** — Design moderno, animações, gradientes e responsividade  
+- **JavaScript (ES6)** — Interatividade, carrossel, e efeitos dinâmicos  
+- **AOS.js** — Animações de scroll suaves e personalizadas  
+- **Swiper.js** — Carrossel fluido e responsivo  
+- **Font Awesome** — Ícones vetoriais modernos  
+- **Google Fonts** — Tipografia profissional  
+- **3D CSS Transformations** — Profundidade e movimento realista nos containers  
+
+
+
+## Funcionalidades
+
+✅ **Hero Section Fullscreen** — com carrossel automático e manual  
+✅ **Efeitos 3D e animações laranjas dinâmicas**  
+✅ **Transições suaves (fade-in, parallax, hover effects)**  
+✅ **Sessão de destaque “PROJETO BRAVO”**  
+✅ **Containers animados com AOS.js**  
+✅ **Layout totalmente responsivo**  
+✅ **Design clean, elegante e tecnológico**  
+
+
+
+## Estrutura do Projeto
+CINOGIA/
+│
+├── index.html # Página principal
+├── style.css # Estilos e animações (400+ linhas)
+├── script.js # Funções JS, carrossel e animações
+├── /img/ # Imagens do site (logo, banner, projetos, etc)
+└── README.md # Este arquivo
+
+
